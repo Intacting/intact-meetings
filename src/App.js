@@ -18,7 +18,7 @@ function App() {
     
       <Routes>
         <Route path="/" element={<Home />}></Route>
-        <Route path="/intact-meetings/login" element={<Login/>}></Route>
+        <Route path="/login" element={<Login/>}></Route>
         <Route path="/intact-meetings/app/login/password" element={<Password/>}></Route>
         <Route path="/user" element={<Dashboard/>}></Route>
         <Route path="/user/create_event_type" element={<CreateEventType/>}></Route>
