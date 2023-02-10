@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/intact-meetings/static/css/main.c25d109a.css",
-    "main.js": "/intact-meetings/static/js/main.f4bfedf5.js",
+    "main.js": "/intact-meetings/static/js/main.58bbcc3c.js",
     "static/js/787.56e46ebc.chunk.js": "/intact-meetings/static/js/787.56e46ebc.chunk.js",
     "static/media/Homepage-Hero-new.png": "/intact-meetings/static/media/Homepage-Hero-new.856a3d7c32551a5a2cfe.png",
     "static/media/proaxiom-symbol+text.png": "/intact-meetings/static/media/proaxiom-symbol+text.cbc6463e4d2b2af0f67d.png",
@@ -46,11 +46,11 @@
     "static/media/cancel-text-email.svg": "/intact-meetings/static/media/cancel-text-email.063bc92716fa63329d8b6e55fbd16e94.svg",
     "static/media/zoom.svg": "/intact-meetings/static/media/zoom.dd4ce5bef905d2b74c0ab60efd87f8f9.svg",
     "main.c25d109a.css.map": "/intact-meetings/static/css/main.c25d109a.css.map",
-    "main.f4bfedf5.js.map": "/intact-meetings/static/js/main.f4bfedf5.js.map",
+    "main.58bbcc3c.js.map": "/intact-meetings/static/js/main.58bbcc3c.js.map",
     "787.56e46ebc.chunk.js.map": "/intact-meetings/static/js/787.56e46ebc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c25d109a.css",
-    "static/js/main.f4bfedf5.js"
+    "static/js/main.58bbcc3c.js"
   ]
 }
