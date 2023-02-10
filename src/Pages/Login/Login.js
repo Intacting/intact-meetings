@@ -46,7 +46,7 @@ const Login = () => {
                     <input type="hidden" name="lang" value="en" />
                     <div className="eeBhJO">
                       <ButtonBold
-                        href="/app/login/password"
+                        href="/password"
                         minheight="62px"
                         margin="0px"
                         width="max-content"
