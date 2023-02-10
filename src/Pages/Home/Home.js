@@ -7,10 +7,11 @@ import SimplifiedSchedule from "./Component/SimplifiedScheduling";
 const Home = () => {
   return (
     <>
-    <Nav/>
-      <EasyScheduling/>
+      <Nav />
+      <h1>Test1</h1>
+      <EasyScheduling />
       <SimplifiedSchedule />
-      <Footer/>
+      <Footer />
     </>
   );
 };
