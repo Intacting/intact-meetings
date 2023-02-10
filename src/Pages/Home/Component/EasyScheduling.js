@@ -21,7 +21,7 @@ const EasyScheduling = () => {
                 </p>
                 <div class="sc-1d6wj51-0 sc-19ksea3-0 header-esa-form-a header-esa-form">
                   <form
-                    action="/app/signup"
+                    action="/intact-meetings/app/signup"
                     method="get"
                     novalidate=""
                     data-testid="email-form"

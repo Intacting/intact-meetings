@@ -195,7 +195,7 @@ const Nav = () => {
         </div>
         <nav className="sc-1n3rarh-5 header" data-testid="header">
           <div className="header-aj header-b">
-            <a type="base" className="name header-name" href="/">
+            <a type="base" className="name header-name" href="/intact-meetings/">
               <div
                 className="logo-display logo-wrapper"
                 data-testid="logo"
@@ -220,7 +220,7 @@ const Nav = () => {
             <ul width="auto" className="nav-item">
               <li className="">
                 <a
-                  href="/for-individuals"
+                  href="/intact-meetings/for-individuals"
                   rel=""
                   target=""
                   id="header-menu-item-0"
@@ -233,7 +233,7 @@ const Nav = () => {
               <li className="">
                 <a
                   aria-current="page"
-                  href="/for-teams"
+                  href="/intact-meetings/for-teams"
                   rel=""
                   target=""
                   id="header-menu-item-1"
@@ -245,7 +245,7 @@ const Nav = () => {
               </li>
               <li className="">
                 <a
-                  href="/for-enterprise"
+                  href="/intact-meetings/for-enterprise"
                   rel=""
                   target=""
                   id="header-menu-item-2"
@@ -257,7 +257,7 @@ const Nav = () => {
               </li>
               <li className="arrow">
                 <a
-                  href="/features"
+                  href="/intact-meetings/features"
                   rel=""
                   target=""
                   id="header-menu-item-3"
@@ -276,7 +276,7 @@ const Nav = () => {
               </li>
               <li className="">
                 <a
-                  href="/pricing"
+                  href="/intact-meetings/pricing"
                   rel=""
                   target=""
                   id="header-menu-item-4"
@@ -288,7 +288,7 @@ const Nav = () => {
               </li>
               <li className="arrow">
                 <a
-                  href="/resources"
+                  href="/intact-meetings/resources"
                   rel=""
                   target=""
                   id="header-menu-item-5"
@@ -308,7 +308,7 @@ const Nav = () => {
             </ul>
             <ul width="auto" id="right-side-components" className="nav-right">
               <li>
-                <a type="header" href="/login" className="nav-c">
+                <a type="header" href="/intact-meetings/login" className="nav-c">
                   <span className="nav-right-l">Log In</span>
                   <img
                     src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxNiAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iOCIgY3k9IjUiIHI9IjQiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTExIDEzSDVDMi43OTA4NiAxMyAxIDE0Ljc5MDkgMSAxN0MxIDE4LjEwNDYgMS44OTU0MyAxOSAzIDE5SDEzQzE0LjEwNDYgMTkgMTUgMTguMTA0NiAxNSAxN0MxNSAxNC43OTA5IDEzLjIwOTEgMTMgMTEgMTNaIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
@@ -328,7 +328,7 @@ const Nav = () => {
                   {/* <a
                     tabindex="0"
                     data-testid="primary-button"
-                    href="/app/signup?lang=en"
+                    href="/intact-meetings/app/signup?lang=en"
                     font-weight="semiBold"
                     display="inline-flex"
                     opacity="1"
@@ -359,7 +359,7 @@ const Nav = () => {
           >
             <li>
               <a
-                href="/for-individuals"
+                href="/intact-meetings/for-individuals"
                 rel=""
                 target=""
                 type="base"
@@ -371,7 +371,7 @@ const Nav = () => {
             <li>
               <a
                 aria-current="page"
-                href="/for-teams"
+                href="/intact-meetings/for-teams"
                 rel=""
                 target=""
                 type="base"
@@ -382,7 +382,7 @@ const Nav = () => {
             </li>
             <li>
               <a
-                href="/for-enterprise"
+                href="/intact-meetings/for-enterprise"
                 rel=""
                 target=""
                 type="base"
@@ -393,7 +393,7 @@ const Nav = () => {
             </li>
             <li className="arrow">
               <a
-                href="/features"
+                href="/intact-meetings/features"
                 rel=""
                 target=""
                 type="base"
@@ -404,7 +404,7 @@ const Nav = () => {
             </li>
             <li>
               <a
-                href="/pricing"
+                href="/intact-meetings/pricing"
                 rel=""
                 target=""
                 type="base"
@@ -415,7 +415,7 @@ const Nav = () => {
             </li>
             <li className="arrow">
               <a
-                href="/resources"
+                href="/intact-meetings/resources"
                 rel=""
                 target=""
                 type="base"

@@ -22,7 +22,7 @@ const Login = ()=>{
                 <div class="sc-1d6wj51-0 sc-19ksea3-0 header-esa-form-a header-esa-form">
                     <p className="form-head">Email Address</p>
                   <form
-                    action="/app/signup"
+                    action="/intact-meetings/app/signup"
                     method="get"
                     novalidate=""
                     data-testid="email-form"
@@ -44,7 +44,7 @@ const Login = ()=>{
                     <input type="hidden" name="lang" value="en" />
                     <div className="eeBhJO">
                       <ButtonBold
-                      href = "/app/login/password"
+                      href = "/intact-meetings/app/login/password"
                         minheight="62px"
                         margin="0px"
                         width="max-content"
