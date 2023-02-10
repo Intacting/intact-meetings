@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c25d109a.css",
-    "main.js": "./static/js/main.cad152ab.js",
+    "main.js": "./static/js/main.0d4d5498.js",
     "static/js/787.56e46ebc.chunk.js": "./static/js/787.56e46ebc.chunk.js",
     "static/media/Homepage-Hero-new.png": "./static/media/Homepage-Hero-new.856a3d7c32551a5a2cfe.png",
     "static/media/proaxiom-symbol+text.png": "./static/media/proaxiom-symbol+text.cbc6463e4d2b2af0f67d.png",
@@ -46,11 +46,11 @@
     "static/media/cancel-text-email.svg": "./static/media/cancel-text-email.063bc92716fa63329d8b6e55fbd16e94.svg",
     "static/media/zoom.svg": "./static/media/zoom.dd4ce5bef905d2b74c0ab60efd87f8f9.svg",
     "main.c25d109a.css.map": "./static/css/main.c25d109a.css.map",
-    "main.cad152ab.js.map": "./static/js/main.cad152ab.js.map",
+    "main.0d4d5498.js.map": "./static/js/main.0d4d5498.js.map",
     "787.56e46ebc.chunk.js.map": "./static/js/787.56e46ebc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c25d109a.css",
-    "static/js/main.cad152ab.js"
+    "static/js/main.0d4d5498.js"
   ]
 }

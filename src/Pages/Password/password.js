@@ -19,7 +19,7 @@ const Password = ()=>{
                     (This is not me.)
                 </button>
             <div className="log-sign-pass-box log-sign-pass-box-a">
-                    <form action="/intact-meetings/user">
+                    <form action="/user">
                         <div>
                             <div className="form-head-a">
                                 <label>Enter your password.</label>
