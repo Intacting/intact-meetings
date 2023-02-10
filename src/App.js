@@ -21,7 +21,7 @@ function App() {
         <Route path="/app/login/password" element={<Password />}></Route>
         <Route path="/user" element={<Dashboard />}></Route>
         <Route
-          path="/intact-meetings/user/create_event_type"
+          path="/user/create_event_type"
           element={<CreateEventType />}
         ></Route>
         <Route

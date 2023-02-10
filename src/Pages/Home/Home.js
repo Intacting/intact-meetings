@@ -8,7 +8,6 @@ const Home = () => {
   return (
     <>
       <Nav />
-      <h1>Test1</h1>
       <EasyScheduling />
       <SimplifiedSchedule />
       <Footer />
