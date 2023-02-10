@@ -11,7 +11,7 @@ const UserNav = () => {
             <a
               type="base"
               className="name header-name"
-              href="/intact-meetings/user"
+              href="/user"
             >
               <div
                 className="logo-display user-nav-logo"
