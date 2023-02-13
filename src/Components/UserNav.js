@@ -8,11 +8,7 @@ const UserNav = () => {
       <header className="user-nav">
         <nav class="navbar navbar-expand-md navbar-light nav-bar-padding">
           <div className="user-nav-a" style={{ marginLeft: "inherit" }}>
-            <a
-              type="base"
-              className="name header-name"
-              href="/user"
-            >
+            <a type="base" className="name header-name" href="/user">
               <div
                 className="logo-display user-nav-logo"
                 data-testid="logo"
